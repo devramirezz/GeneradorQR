@@ -4,7 +4,7 @@
  
  <h4>Generador de código QR</h4>
 
-👉 <a href= "https://devramirezz.github.io/GeneradorQR/" >Generador de QR</a>
+👉 <a href= "https://devramirezz.github.io/GeneradorQR/" tager="_black"> Generador de QR</a>
 
 <div align="center">  
 <a target="_black"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_black"></a>
