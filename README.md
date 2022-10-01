@@ -14,9 +14,6 @@
 
 
 
-https://user-images.githubusercontent.com/76236808/179374541-65430b23-a66b-44ad-bb6b-d6875fd9a1c0.mp4
-
-
 
 
 <div align="center"> Hecho con &hearts; por Kevin Ramirezz </div>
